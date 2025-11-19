@@ -61,10 +61,9 @@
 ## 🖼️ 화면 구성 (Screenshots)
 
 | **메인** | **커리어 진단** |
-| :---: | :---: |
-| ![Main](<img width="1901" height="1417" alt="image" src="https://github.com/user-attachments/assets/8a116822-a285-454c-8d68-a8f5e5606628" />
-) | ![Career](<img width="1032" height="920" alt="image" src="https://github.com/user-attachments/assets/ed82cfea-b08c-4aed-8117-ea6eb01b322f" />
-) |
+| <img width="1901" height="1417" alt="image" src="https://github.com/user-attachments/assets/8a116822-a285-454c-8d68-a8f5e5606628" />
+| <img width="1032" height="920" alt="image" src="https://github.com/user-attachments/assets/ed82cfea-b08c-4aed-8117-ea6eb01b322f" />
+|
 | 커리어 개발을 위한 다양한 메뉴 구성 | 직무 관련 설문을 바탕으로 한 커리어 진단 |
 
 ---
