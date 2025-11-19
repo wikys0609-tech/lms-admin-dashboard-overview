@@ -66,7 +66,7 @@
 
 **커리어 진단 :** 직무 관련 설문을 바탕으로 한 커리어 진단
 
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/ed82cfea-b08c-4aed-8117-ea6eb01b322f" />
+<img width="700" height="630" alt="image" src="https://github.com/user-attachments/assets/ed82cfea-b08c-4aed-8117-ea6eb01b322f" />
 
 ---
 
